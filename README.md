@@ -1,16 +1,19 @@
-## Hi there 👋
+# Susmita Chaudhary
 
-<!--
-**susmitach1/susmitach1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Email**: [susmitachaudhari13@gmail.com](mailto:susmitachaudhari13@gmail.com)  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate Geomatics Engineer.
+
+
+## Skills
+
+- **Geospatial Software**: ArcGIS, QGIS, ENVI, Google Earth Engine, OSM Mapping  
+- **Programming**: Python, C++, Java, HTML, CSS, JavaScript  
+- **Hardware**: Total Station, Theodolite, Drone, DGPS  
+- **Other Tools**: MS Word, Excel, PowerPoint
+
+## Get in Touch!
+
+Feel free to reach out via [email](mailto:susmitachaudhari13@gmail.com) or connect with me on GitHub!
