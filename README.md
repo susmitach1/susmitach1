@@ -10,7 +10,7 @@ A passionate Geomatics Engineer.
 ## Skills
 
 - **Geospatial Software**: ArcGIS, QGIS, ENVI, Google Earth Engine, OSM Mapping  
-- **Programming**: Python, C++, Java, HTML, CSS, JavaScript  
+- **Programming**: Python, HTML, CSS, JavaScript  
 - **Hardware**: Total Station, Theodolite, Drone, DGPS  
 - **Other Tools**: MS Word, Excel, PowerPoint
 
